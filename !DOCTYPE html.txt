@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Página Personal</title>
+    <style>
+        /* Aquí puedes agregar estilos CSS para personalizar tu página */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        header, footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 20px 0;
+        }
+        nav {
+            background-color: #f4f4f4;
+            padding: 10px 0;
+            text-align: center;
+        }
+        section {
+            padding: 20px;
+            margin: 20px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Mi Página Personal</h1>
+    </header>
+    
+    <nav>
+        <a href="#bibliografia">Bibliografía</a> |
+        <a href="#inicio">Inicio</a> |
+        <a href="#habilidades">Habilidades</a> |
+        <a href="#proyectos">Proyectos</a> |
+        <a href="#contacto">Contacto</a>
+    </nav>
+    
+    <section id="bibliografia">
+        <h2>Bibliografía</h2>
+        <p>Aquí puedes listar tus publicaciones, libros, artículos, etc.</p>
+    </section>
+    
+    <section id="inicio">
+        <h2>Inicio</h2>
+        <p>Breve introducción sobre ti y tus intereses.</p>
+    </section>
+    
+    <section id="habilidades">
+        <h2>Habilidades</h2>
+        <ul>
+         
